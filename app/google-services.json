@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "852190818226",
+    "project_id": "tuneio-songs-app",
+    "storage_bucket": "tuneio-songs-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852190818226:android:9064016911d6dd37cebeab",
+        "android_client_info": {
+          "package_name": "com.devcommop.joaquin.tuneio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852190818226-26nv3icnr7n9voptkh6k2t4eed588so8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBxZA6YHJWsGaLe2y5pSF5zt3eDHuRG4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852190818226-26nv3icnr7n9voptkh6k2t4eed588so8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852190818226:android:3163c256ef67e25ecebeab",
+        "android_client_info": {
+          "package_name": "com.devcommop.songstune"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852190818226-26nv3icnr7n9voptkh6k2t4eed588so8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBxZA6YHJWsGaLe2y5pSF5zt3eDHuRG4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852190818226-26nv3icnr7n9voptkh6k2t4eed588so8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852190818226:android:ba0074d76f72c739cebeab",
+        "android_client_info": {
+          "package_name": "com.plcoding.spotifycloneyt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852190818226-26nv3icnr7n9voptkh6k2t4eed588so8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBxZA6YHJWsGaLe2y5pSF5zt3eDHuRG4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852190818226-26nv3icnr7n9voptkh6k2t4eed588so8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
