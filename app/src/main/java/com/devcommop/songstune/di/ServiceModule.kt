@@ -1,6 +1,7 @@
 package com.devcommop.songstune.di
 
 import android.content.Context
+import com.devcommop.songstune.data.remote.MusicDatabase
 import com.google.android.exoplayer2.C
 import com.google.android.exoplayer2.ExoPlayer
 import com.google.android.exoplayer2.SimpleExoPlayer
@@ -40,4 +41,8 @@ object ServiceModule {
     fun provideDataSourceFactory(
         @ApplicationContext context: Context
     ) = DefaultDataSourceFactory(context, Util.getUserAgent(context, "TuneIo Naya wala App"))
+
+    @ServiceScoped
+    @Provides
+    fun providesMusicDatabase() = MusicDatabase()
 }
